@@ -1,10 +1,2 @@
-def fizzbuzz(int)
-  if int % 3 == 0
-    "Fizz"
-  end
-
+def fizzbuzz
 end
-
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz()
